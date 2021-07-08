@@ -13,7 +13,7 @@ img[src$="#avatar"] {
   margin: 0 auto;
   border-radius: 5%;
   max-width: 50%;
-  zoom: 15%;
+  zoom: 20%;
   padding-right: 5%;
   float: left;
 }
