@@ -1,8 +1,55 @@
-## Welcome to GitHub Pages
+---
+title: "Title"
+author: "Author"
+date: "DATE"
+output: 
+  html_document:
+     css: style.css
+     self_contained: no
+---
 
-You can use the [editor on GitHub](https://github.com/r2dedios/r2dedios.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<link rel="stylesheet" href="./style.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# Alejandro Villegas (r2dedios)
+
+
+
+![Avatar](./images/avillegas.jpg#avatar)
+
+
+
+## 
+
+Computer Science Engineer by Universidad Autónoma de Madrid. Speciallized on Linux Systems, container environments and system monitoring
+
+
+
+
+
+<style>
+img[src$="#avatar"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+  zoom: 15%;
+}
+</style>
+
+
+
+
+
+
+
+img[src~="thumbnail"] {
+
+width:150px;   
+
+height:100px; 
+
+} 
 
 ### Markdown
 
