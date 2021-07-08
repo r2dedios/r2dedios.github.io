@@ -19,9 +19,7 @@ output:
 
 
 
-## 
-
-Computer Science Engineer by Universidad Autónoma de Madrid. Speciallized on Linux Systems, container environments and system monitoring
+## Computer Science Engineer by Universidad Autónoma de Madrid. Speciallized on Linux Systems, container environments and system monitoring
 
 
 
@@ -36,20 +34,6 @@ img[src$="#avatar"] {
   zoom: 15%;
 }
 </style>
-
-
-
-
-
-
-
-img[src~="thumbnail"] {
-
-width:150px;   
-
-height:100px; 
-
-} 
 
 ### Markdown
 
