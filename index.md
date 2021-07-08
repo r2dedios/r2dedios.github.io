@@ -2,40 +2,43 @@
 title: "R2dedios's webpage"
 author: "r2dedios"
 date: "2021-07-08"
-output: 
+output:
   html_document:
      css: style.css
      self_contained: no
 ---
-
-<link rel="stylesheet" href="./style.css">
-
-
-# Alejandro Villegas (r2dedios)
-
-
-
-![Avatar](./images/avillegas.jpg#avatar)
-
-
-
-## Computer Science Engineer by Universidad Autónoma de Madrid. Speciallized on Linux Systems, container environments and system monitoring
-
-
-
-
-
 <style>
 img[src$="#avatar"] {
   display: block;
   margin: 0 auto;
-  border-radius: 50%;
+  border-radius: 5%;
   max-width: 50%;
   zoom: 15%;
+  padding-right: 2%;
+  float: left;
 }
 </style>
 
-### Markdown
+# Alejandro Villegas López (r2dedios)
+
+![Avatar](./images/avillegas.jpg#avatar)
+- Computer Science Engineer speciallized on Linux Systems
+- Kubernetes Architect
+- Monitoring Expert
+- GoLang, C as main programming languages
+- ViM enthusiast
+- Guitarist by hobby
+
+
+
+
+
+## Studies
+
+  - Master's degree in Computer Engineering
+    - Thesis: Application of the principles of Malware Engineering to the context of Pentesting ([Download](https://repositorio.uam.es/handle/10486/685331))
+  - Computer Science Engineering
+    - Thesis: Linux Kernel Module for removable storage media security management ([Download](https://repositorio.uam.es/handle/10486/673624))
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
