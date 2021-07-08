@@ -1,7 +1,7 @@
 ---
 title: "R2dedios's webpage"
 author: "r2dedios"
-date: "2021/07/08"
+date: "2021-07-08"
 output: 
   html_document:
      css: style.css
